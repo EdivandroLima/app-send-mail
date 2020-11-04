@@ -6,3 +6,5 @@ Aplicação para envio de e-mails usando a biblioteca PHPMailer
 - [x] Bootstrap
 - [x] PHP7 e Orientação a Objetos
 - [x] PHPMailer
+
+![Preview](./preview.png)
